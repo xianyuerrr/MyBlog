@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6256882d-6d36-44f6-a41f-999aacd15a3a" name="默认更改列表" comment="默认更改列表">
+      <change afterPath="$PROJECT_DIR$/themes/flex-block/source/樱岛麻衣.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/flex-block/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/flex-block/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/flex-block/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/flex-block/layout/_partial/footer.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/flex-block/layout/_partial/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/flex-block/layout/_partial/header.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/flex-block/layout/_widget/widget-toc.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/flex-block/layout/_widget/widget-toc.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/img/tooltip.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/img/tooltip.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia/source-src/js/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/source-src/js/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia/source-src/js/viewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/source-src/js/viewer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia/source/fonts/tooltip.4004ff.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/source/fonts/tooltip.4004ff.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/source/_posts" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20VQcwe8ALem7uD97cWAKB1KOFw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.6" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\daima\nodejsProjects\my_blog\themes\flex-block\source" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\daima\nodejsProjects\my_blog\source\_posts" />
+      <recent name="D:\daima\nodejsProjects\my_blog\themes\flex-block\source\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6256882d-6d36-44f6-a41f-999aacd15a3a" name="默认更改列表" comment="" />
+      <created>1636127358753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636127358753</updated>
+      <workItem from="1636127366594" duration="5749000" />
+      <workItem from="1636160059876" duration="14042000" />
+      <workItem from="1636187784187" duration="9893000" />
+      <workItem from="1636200896469" duration="13533000" />
+      <workItem from="1636254997507" duration="9244000" />
+      <workItem from="1636287686320" duration="1154000" />
+      <workItem from="1636294870907" duration="1473000" />
+      <workItem from="1636349290180" duration="3348000" />
+      <workItem from="1636354954546" duration="447000" />
+      <workItem from="1636367335843" duration="4248000" />
+      <workItem from="1636445050546" duration="1195000" />
+      <workItem from="1638277553469" duration="5150000" />
+      <workItem from="1638350297402" duration="10600000" />
+      <workItem from="1638415754948" duration="7403000" />
+      <workItem from="1638516772683" duration="18000" />
+      <workItem from="1638797943491" duration="782000" />
+      <workItem from="1642424232340" duration="554000" />
+      <workItem from="1642424810094" duration="69000" />
+      <workItem from="1646028227562" duration="270000" />
+      <workItem from="1646203644317" duration="344000" />
+      <workItem from="1646733203304" duration="1243000" />
+      <workItem from="1694531891422" duration="1739000" />
+      <workItem from="1694618009845" duration="1927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/themes/melody" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
