@@ -21,10 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="6256882d-6d36-44f6-a41f-999aacd15a3a" name="默认更改列表" comment="默认更改列表">
       <change afterPath="$PROJECT_DIR$/themes/flex-block/source/樱岛麻衣.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/flex-block" beforeDir="false" afterPath="$PROJECT_DIR$/themes/flex-block" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/flex-block/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/flex-block/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/flex-block/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/flex-block/layout/_partial/footer.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/flex-block/layout/_partial/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/flex-block/layout/_partial/header.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/flex-block/layout/_widget/widget-toc.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/flex-block/layout/_widget/widget-toc.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/img/tooltip.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/img/tooltip.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yilia/source-src/js/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/source-src/js/mobile.js" afterDir="false" />
@@ -37,7 +40,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/source/_posts" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -103,7 +106,8 @@
       <workItem from="1646203644317" duration="344000" />
       <workItem from="1646733203304" duration="1243000" />
       <workItem from="1694531891422" duration="1739000" />
-      <workItem from="1694618009845" duration="1927000" />
+      <workItem from="1694618009845" duration="2691000" />
+      <workItem from="1694833814939" duration="297000" />
     </task>
     <servers />
   </component>
